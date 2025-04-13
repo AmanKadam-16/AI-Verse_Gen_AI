@@ -1,30 +1,56 @@
-# React + TypeScript + Vite
+# AI Verse – Your AI-Powered Coding & Interview Companion 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![AI Verse Banner](https://ai-verse16.vercel.app/banner.png)
 
-Currently, two official plugins are available:
+**AI Verse** is a cutting-edge web application designed to enhance your coding skills and prepare you for technical interviews. By integrating advanced AI models and multimodal technologies, AI Verse offers a suite of tools to assist developers and job seekers alike.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔍 Features
 
-## Expanding the ESLint configuration
+### 🎤 AI Interviewer
+- **Simulated Interviews**: Engage in realistic technical interviews powered by large language models.
+- **Speech Integration**: Utilize Text-to-Speech and Speech-to-Text for a natural conversational experience.
+- **Emotion Analysis**: Receive feedback on your emotional cues to improve your interview presence.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+### 💻 Coding Assistant
+- **Code Generator**: Automatically generate code snippets with detailed explanations.
+- **Code Explainer**: Break down complex code into understandable segments.
+- **Code Reviewer & Bug Detector**: Analyze your code for potential issues and receive improvement suggestions.
+- **Code Converter**: Seamlessly translate code between different programming languages.
+- **Documentation Generator**: Create comprehensive documentation for your codebase.
 
-- Configure the top-level `parserOptions` property like this:
+## 🧠 Technologies Used
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+- **Frontend**: React, TypeScript, Tailwind CSS, Vite, Shadcn/ui
+- **AI Models**: Integration with various LLMs including LLaMA 2 (70B parameters) via Together AI
+- **Multimodal AI**: Emotion and speech analysis powered by Hume AI
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+## 🚀 Getting Started
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/AmanKadam-16/AI-Verse_Gen_AI.git
+   ```
+2. **Navigate to the project directory**:
+   ```bash
+   cd AI-Verse_Gen_AI
+   ```
+3. **Install dependencies**:
+   ```bash
+   npm install
+   ```
+4. **Start the development server**:
+   ```bash
+   npm run dev
+   ```
+
+## 🌐 Live Demo
+
+Experience AI Verse in action: [https://ai-verse16.vercel.app/](https://ai-verse16.vercel.app/)
+
+## 🤝 Contributing
+
+Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
