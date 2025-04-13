@@ -1,6 +1,6 @@
 # AI Verse – Your AI-Powered Coding & Interview Companion 🚀
 
-![AI Verse Banner](https://ai-verse16.vercel.app/banner.png)
+![AI Verse Banner](https://media.licdn.com/dms/image/v2/D562DAQEtNBwteu7W_w/profile-treasury-image-shrink_800_800/B56ZX1eM31GcAg-/0/1743580090471?e=1745190000&v=beta&t=bFgwGr5hwBRPMIgKgSjxAE6LUZZLtIS3srI5EJ6Bu5w)
 
 **AI Verse** is a cutting-edge web application designed to enhance your coding skills and prepare you for technical interviews. By integrating advanced AI models and multimodal technologies, AI Verse offers a suite of tools to assist developers and job seekers alike.
 
